@@ -1,4 +1,3 @@
-import React from 'react'
 import { ArrowTrendingDownIcon } from '@heroicons/react/24/solid'
 import { ArrowTrendingUpIcon } from '@heroicons/react/24/solid'
 
